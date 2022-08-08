@@ -32,7 +32,8 @@ The software was all done in LabVIEW and was focused on getting the torque senso
 I made good progress on this project, but there was just not enough time to finish it during my summer term.
 
 ### Link to GitHub
-You can find the project-specific GitHub [thesixtium/Bearing_Vibration_Analysis_Setup](https://github.com/thesixtium/Bearing_Vibration_Analysis_Setup)
+You can find the project-specific GitHub here:
+[thesixtium/Bearing_Vibration_Analysis_Setup](https://github.com/thesixtium/Bearing_Vibration_Analysis_Setup)
 
 ### What's Been Done
 * The electrical schematics were made according to specifications by the head Ph.D. student. 
@@ -64,20 +65,34 @@ Overview
 ### Links
 
 ## Atomic Force Microscopy Peak Detection
-Overview
+This code is meant to automate the process of finding peaks and valleys in AFM data and do all the needed math, turning hours or days of work into under a minute of computing. 
 ### Link to GitHub
+You can find the project-specific GitHub here:
+[thesixtium/AFM_Peak_Detection](https://github.com/thesixtium/AFM_Peak_Detection)
+
 ### What's Been Done
+* The base code has been made, tested, and tuned on one dataset. 
+* It has also run and is confirmed to work on a second dataset.
+
 ### What Needs to Happen
+* There needs to be more testing and adjustments on other datasets.
+* All the magic numbers should be automatically generated from the dataset instead of having to be tested and manually made.
+* The software needs to be applied.
+
 ### Documentation
-### Links
+There is extensive documentation on GitHub and throughout the code, which should make everything clear. 
 
 ## Atomic Force Microscopy Tip Holders
-Overview
+I got asked to make holders for the AFM tips; I have no idea what they are used for or why they are needed.
+
 ### Link to GitHub
+You can find the project-specific GitHub here:
+[thesixtium/Vinay_Tip_Holders](https://github.com/thesixtium/Vinay_Tip_Holders)
 ### What's Been Done
-### What Needs to Happen
+* They were made, printed, and verified to work
+
 ### Documentation
-### Links
+The STL file is on the GitHub link, nothing else to document.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
